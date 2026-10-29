@@ -401,7 +401,12 @@ SELECT
 -- git push origin master
 
 
+-- git cloen url
 
+
+-- git push origin master
+
+-- git pull origin master
 
 
 
